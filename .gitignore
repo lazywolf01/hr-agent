@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Candidate personal data - never commit
+resume/
+output/
+*.pdf
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,15 @@
+We are hiring an SDE 1 (AI/ML) for our Data Science team in Bengaluru (Hybrid, Full-time).
+
+You will build LLM-powered applications, data pipelines and machine learning models, and deploy them as APIs.
+
+Requirements:
+- 0-2 years of experience in Python development or machine learning (internships count)
+- Bachelor's degree in Computer Science, IT or a related field
+- Strong Python, SQL and Git
+- Hands-on with machine learning libraries such as scikit-learn, Pandas, NumPy
+- Experience calling LLM APIs (OpenAI, Groq, etc.) and prompt engineering
+
+Nice to have: LangChain, RAG / vector databases, FastAPI, Docker, AWS or any cloud certification.
+
+Responsibilities: build and evaluate ML models, develop LLM agents and RAG pipelines, write clean production code, collaborate with product teams.
+Salary: 6-10 LPA
